@@ -1,0 +1,5 @@
+com\blu4ck\Kodlama\io\Devs\repositories\LanguageRepository.class
+com\blu4ck\Kodlama\io\Devs\services\LanguageService.class
+com\blu4ck\Kodlama\io\Devs\controllers\LanguageController.class
+com\blu4ck\Kodlama\io\Devs\models\Language.class
+com\blu4ck\Kodlama\io\Devs\Application.class
