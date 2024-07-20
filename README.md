@@ -7,3 +7,5 @@
 > Önemli : Asla copy paste yapmayınız. Projeyi sıfırdan oluşturacağınız için vakit alacaktır ama konuyu pekiştirmenizi sağlar.
 
 _Bu yöntem derslerden ve arkadaşların uygulamalarından biraz farklı ama aynı işi yaptığı sürece sorun olacağını düşünmüyorum. Doğru mu yanlış mı fikrim yok ancak daha az kod kalabalığı ve daha anlaşılır olduğunu düşünüyorum_ *
+
+**/swagger-ui/index.html  mevcut
